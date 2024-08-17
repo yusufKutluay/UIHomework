@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Elbise Kütüphanem</string>
+    <string name="kategory_kadin">Kadın</string>
+    <string name="kategory_erkek">Erkek</string>
+    <string name="kategory_cocuk">Anne &amp; Çocuk</string>
+    <string name="kategory_ev">Ev &amp; Yaşam</string>
+    <string name="aciklama">Elbise Kütüphanem ile değişime hazır mısın ?</string>
+    <string name="topbar_name">Elbise Kütüphanem</string>
+</resources>

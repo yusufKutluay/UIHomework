@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dress Library</string>
+    <string name="kategory_kadin">Woman</string>
+    <string name="kategory_erkek">Man</string>
+    <string name="kategory_cocuk">Mother &amp; Child</string>
+    <string name="kategory_ev">Home &amp; Life</string>
+    <string name="aciklama">Are you ready for a change with My Dress Library?</string>
+    <string name="topbar_name">Dress Library</string>
+</resources>
