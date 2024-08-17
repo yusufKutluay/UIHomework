@@ -1,2 +1,2 @@
-Techcareer eğitiminde Kasım Adalan tarafından verile 3. ödev 
+Techcareer eğitiminde Kasım Adalan tarafından verilen 3. ödev 
 
