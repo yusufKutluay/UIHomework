@@ -1,4 +1,4 @@
-package com.yusufkutluay.uihomework.ui.theme
+package com.yusufkutluay.uihomework
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -22,6 +22,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.yusufkutluay.uihomework.ui.theme.CardColors1
+import com.yusufkutluay.uihomework.ui.theme.moderustic
 
 @Composable
 fun Category(image : Int,categoryName : String,darkTheme: Boolean = isSystemInDarkTheme()){
